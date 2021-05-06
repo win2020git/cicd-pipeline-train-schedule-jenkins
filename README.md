@@ -13,3 +13,5 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+
+## Updated on 6th May 2021 - 1:51PM SGT
